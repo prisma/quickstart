@@ -6,7 +6,7 @@
     "@prisma/client": "2.4.1"
   },
   "devDependencies": {
-    "@prisma/cli": "2.3.0"
+    "@prisma/cli": "2.4.1"
   },
   "scripts": {
     "dev": "node ./script.js"
